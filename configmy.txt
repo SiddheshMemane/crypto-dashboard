@@ -1,0 +1,5 @@
+banner.js   corusle tag removed line 57
+
+coinstable.js  108 line bgcolor  #EEBC1D  to beige
+
+cointable align =left from right   //commented align ? coin right line 116
